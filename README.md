@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="StormBreaker"></a>
+  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="ifStormBreaker"></a>
 
 </h1>
 
@@ -84,8 +84,8 @@
 ### Installation On Kali Linux
 
 ```bash
-$ git clone https://github.com/ultrasecurity/Storm-Breaker
-$ cd Storm-Breaker
+$ git clone https://github.com/rjshamim/ifstorm-breaker.git
+$ cd ifstorm-breaker
 $ sudo bash install.sh
 $ sudo python3 -m pip install -r requirements.txt
 $ sudo python3 st.py
