@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ultrasecurity/Storm-Breaker"><img src=".imgs/1demo.png" alt="ifStormBreaker"></a>
+  <a href="https://github.com/rjshamim/ifstorm-breaker"><img src=".imgs/1demo.png" alt="ifStormBreaker"></a>
 
 </h1>
 
